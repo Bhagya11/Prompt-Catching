@@ -18,7 +18,3 @@ The goal of this project is to show how caching repeated prompts can dramaticall
 
 > ⚠️ This project demonstrates **response caching at the application layer**, not model-side KV cache or provider-side prompt caching.
 
----
-
-## 🧠 High-Level Architecture
-
